@@ -17,7 +17,7 @@
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/csv-chart-viewer.git  
+   git clone https://github.com/Emmatiko101/csv-chart-viewer.git  
    ```  
 
 2. **Navigate to the Project Directory**:  
