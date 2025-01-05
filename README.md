@@ -1,6 +1,7 @@
 # CSV Chart Viewer  
 
 **A web application that allows users to upload CSV files and visualize the data as interactive charts.**  
+![screenshot](screenshot.png)
 
 ---
 
